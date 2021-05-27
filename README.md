@@ -1,3 +1,7 @@
+###说明
+原来的KGCN只能在Tensorflow1.0环境中运行，在2.0版本中由于某些库的删改会出现错误  
+根据网上的说明将代码进行修改使得其能在2.0环境中运行  
+
 # KGCN
 
 This repository is the implementation of [KGCN](https://dl.acm.org/citation.cfm?id=3313417) ([arXiv](https://arxiv.org/abs/1904.12575)):
